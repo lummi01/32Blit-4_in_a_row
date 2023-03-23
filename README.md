@@ -1,4 +1,4 @@
-# SnakeRace
+# 4 in a row
 
 
 For local build:
