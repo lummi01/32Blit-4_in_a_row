@@ -1,0 +1,10 @@
+title: 4 in a row
+description: classic board game
+author: M. Gerloff
+splash:
+  file: assets/image.png
+icon:
+  file: assets/icon.png
+version: v0.2.0
+category: game # game, demo, utility, ...
+url: https://github.com/lummi01/4_in_a_row
